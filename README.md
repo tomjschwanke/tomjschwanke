@@ -2,7 +2,7 @@
 
 ### 🏫 Currently a student at **Wilhelm-Busch-Gymnasium Stadthagen** 🇩🇪
 
-### 📫 You can reach me at **t.schwanke@wilhelm-busch-gymnasium.de**
+### 📫 You can reach me at **tom@tomjschwanke.de**
 
 ### 👨‍💻 Find most of my projects here on GitHub
  - 🎮 Minecraft plugins
