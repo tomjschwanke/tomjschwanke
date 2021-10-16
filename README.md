@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tom Jason Schwanke</h1>
 
-### 🏫 Currently a student at **Wilhelm-Busch-Gymnasium Stadthagen** 🇩🇪
+### 🏫 Currently a student at **HTWK Leipzig** 🇩🇪
 
 ### 📫 You can reach me at **tom@tomjschwanke.de**
 
