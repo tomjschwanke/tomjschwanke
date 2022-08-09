@@ -36,6 +36,6 @@
 ### 🔮 Future goals
 - `// TODO`
 
-### 🌐 Some stuff is on my website **https://tomjschwanke.de**
+### 🌐 Some stuff is on my website **https://tjsh.de**
 
 ### 🙇‍♂️ Thanks for visiting my profile
