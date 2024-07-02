@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tom Jason Schwanke</h1>
 
-### 🏫 Currently a student at **HTWK Leipzig** 🇩🇪
-
-### 📫 You can reach me at **tom@tomjschwanke.de**
+### 📫 You can reach me at **tom@schwan.ke**
 
 ### 👨‍💻 Find most of my projects here on GitHub
  - 🎮 Minecraft plugins
@@ -27,15 +25,4 @@
 - ⚠ Windows
 - 🖥 PC consumer hardware
 
-### 🎡 What do I do in my freetime?
-- 🕹 Play videogames
-- 🎧 Listen to music
-- 👨‍💻 Code
-- 🚒 Volunteer firefighter
-
-### 🔮 Future goals
-- `// TODO`
-
 ### 🌐 Some stuff is on my website **https://tjsh.de**
-
-### 🙇‍♂️ Thanks for visiting my profile
