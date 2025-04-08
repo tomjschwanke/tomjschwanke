@@ -2,27 +2,25 @@
 
 ### 📫 You can reach me at **tom@schwan.ke**
 
-### 👨‍💻 Find most of my projects here on GitHub
+### 👨‍💻 Find most of my projects and contributions here on GitHub
+ - 🌐 Website projects (in organizations)
  - 🎮 Minecraft plugins
  - 📟 Arduino projects
  - 📱 Android Apps
 
 ### 🛰 My interests
-- 📡 Communication
-- 🌦 Sensor data collection
+- 📡 Communication / IoT
+- 🛠️ Self-hosting things
 
 ### 🧰 Tools / stuff I work with
-- 📈 Grafana
-- 🗃 phpMyAdmin / SQL
 - 🆖 nginx
 - 🔴 nodered
-- ℹ IntelliJ
-- 🆚 VS Code
-- 📻 Software defined radio
+- 🚢 docker
+- 📄 hugo
 
 ### ✨ Other knowledge
 - 🐧 Linux / bash / systemd
 - ⚠ Windows
 - 🖥 PC consumer hardware
 
-### 🌐 Some stuff is on my website **https://tjsh.de**
+### 🌐 Website **https://tjsh.de**
